@@ -13,6 +13,8 @@ application catalog for one-click self-hosting, and progressively deeper environ
 Docker CLI, and stores everything it manages as plain Compose files on disk.
 
 <!-- Add screenshots here, e.g. ![Dashboard](docs/screenshot-dashboard.png) -->
+![Dashboard](img/Screenshot%202026-06-16%20084806.png)
+ 
 
 ## Features
 
